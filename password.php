@@ -1,15 +1,12 @@
 <?php
-ini_set("display_errors", 1);
-error_reporting(E_ALL|E_STRICT);
-
 /**
 * Password Generation
 *
 * @phpver 5.0
 * @author Robin Metcalfe <robin@solarisedesign.co.uk>
-* @version 1.0
+* @version 1.01
 * @package strongPass
-* Date     :  12th Sep 2008
+* Date     :  17th Feb 2012
 * Purpose  :  Creating a strong password and hash value with salt
 */ 
 
